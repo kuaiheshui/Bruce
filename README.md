@@ -1,4 +1,4 @@
-# Bruce
+# Auto-Chess-AI
 game assistant
 
 自走棋AI助手项目 - 技术摘要与规划
